@@ -1,0 +1,17 @@
+product_id,product_name,category,unit_cost
+P101,Coca-Cola 1.5L,beverages,45.0
+P102,Nescafe 3-in-1 Sachet,Beverages ,6.0
+P103,Bottled Water 500ml,BEVERAGES,8.0
+P104,Iced Tea Powder 25g,beverages,9.0
+P201,Boy Bawang 100g,Snacks,12.0
+P202,Cheez Curls,snacks,10.0
+P203,Skyflakes Pack,SNACKS,18.0
+P204,Choco Mucho Bar,Snacks,8.0
+P301,Rice 5kg,Groceries,210.0
+P302,Cooking Oil 1L,groceries,85.0
+P303,Sardines Can 155g,GROCERIES,18.0
+P304,Noodles Pack 55g,Groceries,6.0
+P401,Safeguard Soap 90g,Personal Care,28.0
+P402,Colgate Toothpaste 100ml,personal care,55.0
+P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62.0
+P404,Head & Shoulders Sachet,Personal Care,6.5
