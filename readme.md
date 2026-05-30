@@ -18,7 +18,7 @@ Description:
 - /03_visualization/: Houses the Power BI files (.pbix) and related visual assets for reporting.
 - /04_executive_summary/: Stores the final reports and executive summaries of the findings.
 
-Link: 
+Link: https://github.com/cicngh/data-analytics-LIII-IA-NICOLAS_CLARK_IAN_-C/blob/main/03_visualization/IA_Screenshot_NICOLAS_CLARK_IAN_C.PNG
 
 Tools: 
 1.Microsoft® Excel® LTSC MSO (Version 2604 Build 16.0.19929.20172) 64-bit
